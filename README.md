@@ -1,4 +1,26 @@
-## Hi there 👋
+### Make Eyes More Cleaner 👋
+I am Xinyu Yan, an incoming Master student at BIT in China.
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fengyanzi&theme=dark&show_icons=true">
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=fengyanzi&show_icons=true">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fengyanzi&layout=donut">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengyanzi&layout=donut">
+</picture>
+
+
+ **Repositories** 
+|   Topic   |     Title     |    Resource  | Publication
+|:---------:|:-------------:|:------------:|:---------:|
+|   dehazing  |   Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in
+ Large Images | [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/DehazingAttributionMap?style=social)](https://github.com/fengyanzi/DehazingAttributionMap) | CVPR 2025 (CCF-A)
+|  super-resolution   |   [Mitigating Texture Bias: A Remote Sensing Super-Resolution Method Focusing on High-Frequency Texture Reconstruction](https://ieeexplore.ieee.org/document/10912673) |[![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://ieeexplore.ieee.org/document/10912673) [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/FAT?style=social)](https://github.com/fengyanzi/FAT) | IEEE TGRS (Q1 TOP)
+|   dehazing  |   [MRF-Net: An Infrared Remote Sensing Image Thin Cloud Removal Method With the Intra-Inter Coherent Constraint]([https://ieeexplore.ieee.org/document/10918606]) |[![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://ieeexplore.ieee.org/document/10918606) [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/MRF-Net?style=social)](https://github.com/fengyanzi/MRF-Net) | IEEE TGRS (Q1 TOP)
+|   LAM  |   [ocal-Attribution-Map-for-Super-Resolution |[![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/Local-Attribution-Map-for-Super-Resolution?style=social)](https://github.com/fengyanzi/Local-Attribution-Map-for-Super-Resolution) | N/A
+
+
 
 <!--
 **fengyanzi/fengyanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
