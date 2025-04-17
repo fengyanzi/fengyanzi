@@ -14,7 +14,7 @@ I am Xinyu Yan, an incoming Master student at BIT in China.
  **Repositories** 
 |   Topic   |     Title     |    Resource  | Publication
 |:---------:|:-------------:|:------------:|:---------:|
-|   dehazing  |   Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images | [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/DehazingAttributionMap?style=social)](https://github.com/fengyanzi/DehazingAttributionMap) | CVPR 2025 (CCF-A)
+|   dehazing  |   [Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images](http://arxiv.org/abs/2504.09621) | [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/DehazingAttributionMap?style=social)](https://github.com/fengyanzi/DehazingAttributionMap) | CVPR 2025 (CCF-A)
 |  super-resolution   |   [Mitigating Texture Bias: A Remote Sensing Super-Resolution Method Focusing on High-Frequency Texture Reconstruction](https://ieeexplore.ieee.org/document/10912673) | [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/FAT?style=social)](https://github.com/fengyanzi/FAT) | IEEE TGRS (Q1 TOP)
 |   dehazing  |   [MRF-Net: An Infrared Remote Sensing Image Thin Cloud Removal Method With the Intra-Inter Coherent Constraint](https://ieeexplore.ieee.org/document/10918606) | [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/MRF-Net?style=social)](https://github.com/fengyanzi/MRF-Net) | IEEE TGRS (Q1 TOP)
 |   LAM  |   Local-Attribution-Map-for-Super-Resolution |[![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/Local-Attribution-Map-for-Super-Resolution?style=social)](https://github.com/fengyanzi/Local-Attribution-Map-for-Super-Resolution) | N/A
