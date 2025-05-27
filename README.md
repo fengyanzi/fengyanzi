@@ -12,7 +12,7 @@ I am Xinyu Yan, an incoming Master student at BIT in China.
 
 
  **Repositories** 
-|   Topic   |     Title     |    Resource  | Publication
+|   Topic   |     Paper     |    Code  | Publication
 |:---------:|:-------------:|:------------:|:---------:|
 |   dehazing  |   [Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images](http://arxiv.org/abs/2504.09621) | [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/DehazingAttributionMap?style=social)](https://github.com/fengyanzi/DehazingAttributionMap) | CVPR 2025 (CCF-A)
 |  super-resolution   |   [Mitigating Texture Bias: A Remote Sensing Super-Resolution Method Focusing on High-Frequency Texture Reconstruction](https://ieeexplore.ieee.org/document/10912673) | [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/FAT?style=social)](https://github.com/fengyanzi/FAT) | IEEE TGRS (Q1 TOP)
