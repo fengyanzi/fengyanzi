@@ -9,12 +9,13 @@ I am Xinyu Yan, an incoming Master student at BIT in China.
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fengyanzi&layout=donut">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengyanzi&layout=donut">
 </picture>
-
+DCH-Net: A Hyperspectral Target Detection Network with Differential Convolution and Spectral Gradient Fusion
 
  **Repositories** 
 |   Topic   |     Paper     |    Code  | Publication
 |:---------:|:-------------:|:------------:|:---------:|
 |   dehazing  |   Inf-Dehaze: Beyond GPU Memory Constraints for Ultra-High-Resolution Image Dehazing | Coming Soon | CVPR 2026 findings
+|   Target Detection  |   DCH-Net: A Hyperspectral Target Detection Network with Differential Convolution and Spectral Gradient Fusion | Coming Soon | N/A
 |   dehazing  |   [Tokenize Image Patches: Global Context Fusion for Effective Haze Removal in Large Images](http://arxiv.org/abs/2504.09621) | [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/DehazingAttributionMap?style=social)](https://github.com/fengyanzi/DehazingAttributionMap) | CVPR 2025 (CCF-A)
 |  super-resolution   |   [Mitigating Texture Bias: A Remote Sensing Super-Resolution Method Focusing on High-Frequency Texture Reconstruction](https://ieeexplore.ieee.org/document/10912673) | [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/FAT?style=social)](https://github.com/fengyanzi/FAT) | IEEE TGRS (Q1 TOP)
 |   dehazing  |   [MRF-Net: An Infrared Remote Sensing Image Thin Cloud Removal Method With the Intra-Inter Coherent Constraint](https://ieeexplore.ieee.org/document/10918606) | [![GitHub Repo stars](https://img.shields.io/github/stars/fengyanzi/MRF-Net?style=social)](https://github.com/fengyanzi/MRF-Net) | IEEE TGRS (Q1 TOP)
